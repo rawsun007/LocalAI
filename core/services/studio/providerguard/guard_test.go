@@ -93,6 +93,7 @@ var allowed = []entry{
 	{"docs/content/start/install/linux.md", "GitHub Releases", "release downloads: the service"},
 	{"docs/content/start/install/macos.md", "GitHub releases", "release downloads: the service"},
 	{"docs/content/models/setting-up-models.md", "GitHub", "release downloads: the service"},
+	{"docs/content/start/customize-model.md", "GitHub", "a gist on the service as an example of a URL for a configuration file"},
 	{"docs/content/administration/troubleshooting.md", "GitHub", "the issue tracker of the project: the service"},
 
 	// Chat platforms named as examples of what a connector carries. The
