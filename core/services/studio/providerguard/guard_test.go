@@ -176,7 +176,6 @@ var coreDocs = []string{
 	"docs/content/start/first-agent.md",
 	"docs/content/start/install/_index.md",
 	"docs/content/start/install/containers.md",
-	"docs/content/start/install/docker.md",
 	"docs/content/start/install/kubernetes.md",
 	"docs/content/start/install/linux.md",
 	"docs/content/start/install/macos.md",
